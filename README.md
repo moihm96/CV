@@ -43,4 +43,34 @@
 
 ### 🏢 **Frontend Developer - Plexus Tech** *(Junio 2022 - Mayo 2023, Remoto)*
 ✔ Desarrollo de interfaces web con **React y Redux**.  
-✔ Creación de componentes reutilizables para mejorar la eficiencia del desarrollo.
+✔ Creación de componentes reutilizables para mejorar la eficiencia del desarrollo.  
+✔ Implementación de pruebas unitarias con **Jest y React Testing Library**.  
+✔ Integración con software de tiendas minoristas de lujo.  
+
+### 🏢 **Full Stack Developer - Avanade** *(Noviembre 2020 - Mayo 2022, Remoto)*
+✔ Desarrollo de soluciones en **Microsoft .NET y React**.  
+✔ Creación de scripts en **SQL Server** y gestión de despliegues.  
+✔ Documentación técnica y recolección de requisitos con clientes.  
+
+### 🏢 **Full Stack Developer - Bitbox** *(Julio 2019 - Octubre 2020, Telde, Gran Canaria)*
+✔ Desarrollo de plataformas para admisiones universitarias y software ERP.  
+✔ Creación de **APIs RESTful con Java y PostgreSQL**.  
+✔ Optimización del software, mejorando la eficiencia en un **18%**.  
+
+---
+
+## 🎓 **EDUCACIÓN Y CERTIFICACIONES**
+📌 **Máster en Tecnologías y Procesos de Negocio** - Universidad de Granada *(Septiembre 2021)*  
+📌 **Grado en Ingeniería Informática** - Universidad de Las Palmas de Gran Canaria *(Julio 2019)*  
+📌 **Certificación Microsoft Azure Fundamentals AZ-900** *(Marzo 2021)*  
+
+---
+
+## 🏆 **COMPETENCIAS CLAVE**
+✅ Trabajo en equipo y colaboración multidisciplinaria  
+✅ Liderazgo y toma de decisiones  
+✅ Capacidad de adaptación a nuevos entornos  
+✅ Resolución de problemas y atención al detalle  
+✅ Excelente comunicación oral y escrita  
+
+---
