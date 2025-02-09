@@ -34,7 +34,7 @@
 
 ## 💼 **EXPERIENCIA PROFESIONAL**
 
-### 🏢 **Frontend Developer - Entelgy** *(Mayo 2023 - Junio 2024, Remoto)*
+### 🏢 **Frontend Developer - Entelgy** *(Mayo 2023 - Julio 2024, Remoto)*
 ✔ Desarrollo e implementación de nuevas funcionalidades para un sistema jurídico.  
 ✔ Uso de **React, TailwindCSS y CSS Modules** para interfaces responsivas.  
 ✔ Aplicación de principios **SOLID y Clean Code**.  
